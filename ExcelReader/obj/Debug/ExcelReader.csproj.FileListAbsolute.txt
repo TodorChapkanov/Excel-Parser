@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe.config
+C:\Users\User\Desktop\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe
+C:\Users\User\Desktop\ExcelReader\ExcelReader\bin\Debug\ExcelReader.pdb
+C:\Users\User\Desktop\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ExcelReader\ExcelReader\obj\Debug\ExcelReader.Form1.resources
+C:\Users\User\Desktop\ExcelReader\ExcelReader\obj\Debug\ExcelReader.Properties.Resources.resources
+C:\Users\User\Desktop\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ExcelReader\ExcelReader\obj\Debug\ExcelReader.exe
+C:\Users\User\Desktop\ExcelReader\ExcelReader\obj\Debug\ExcelReader.pdb
