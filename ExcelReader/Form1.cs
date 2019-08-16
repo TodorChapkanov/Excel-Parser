@@ -14,6 +14,7 @@ namespace ExcelReader
     public partial class Form1 : Form
     {
         private const string InvalidFilePathMessage = "Invalid File Path";
+        private const string UploadSuccesful = "Upload is Successful";
         public Form1()
         {
             InitializeComponent();
@@ -34,7 +35,7 @@ namespace ExcelReader
             }
 
             DatabaseOperator.ParsFile(filePath,dbContext);
-
+            MessageBox.Show(UploadSuccesful);
 
             try
             {
